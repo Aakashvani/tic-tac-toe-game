@@ -1,7 +1,23 @@
-# Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# ❌Tic Tac Toe Game⭕
 
-## Recommended IDE Setup
+This game is build by just for fun for something new, in this application i used Vue.JS (for the first time), Tailwind.css and JS.
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+
+It was really fun with so many learning while building this game.
+
+
+
+
+## Screenshots
+
+![App Screenshot](https://i.ibb.co/y5vVvJ4/pic-1.png)
+
+![App Screenshot](https://i.ibb.co/WVr9CP5/pic-2.png)
+
+
+## Acknowledgements
+
+ - [ReactJS Tutorial for Tic Tac Toe Game](https://reactjs.org/tutorial/tutorial.html)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ 
