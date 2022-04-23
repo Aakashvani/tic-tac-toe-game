@@ -1,7 +1,7 @@
 
 # ❌Tic Tac Toe Game⭕
 
-This game is build by just for fun for something new, in this application i used Vue.JS (for the first time), Tailwind.css and JS.
+This game is build by just for fun for learning something new, in this application i used Vue.JS (for the first time), Tailwind.css and JS.
 
 
 It was really fun with so many learning while building this game.
